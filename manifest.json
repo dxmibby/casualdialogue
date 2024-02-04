@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "Changes dialogue to be more casual with NPCs",
   "UniqueID": "dxmibby.casualdialogue",
-  "UpdateKeys": [], 
+  "UpdateKeys": ["Github:dxmibby/casualdialogue"], 
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
